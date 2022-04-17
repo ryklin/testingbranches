@@ -1,5 +1,7 @@
 class AlgoTradingLesson5(QCAlgorithm):
 
+    def NewFunc(self):
+
     def Initialize(self):
         self.SetStartDate(2018, 1, 1)  # Set Start Date
         self.SetEndDate(2021, 1, 1)
