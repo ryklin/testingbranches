@@ -3,6 +3,7 @@ class AlgoTradingLesson4(QCAlgorithm):
     def Revision3(self):
 	yayaya
 	andevenmore
+	another change
     def Initialize(self):
         self.SetStartDate(2020, 1, 1)  # Set Start Date
         self.SetEndDate(2021, 1, 1)  # Set Start Date
