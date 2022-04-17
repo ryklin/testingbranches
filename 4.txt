@@ -1,4 +1,3 @@
 class AlgoTradingLesson4(QCAlgorithm):
 
-    def Revision3(self):
-	11
+ 	aFunc():
