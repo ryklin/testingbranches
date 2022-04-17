@@ -1,4 +1,4 @@
 class AlgoTradingLesson5(QCAlgorithm):
 
     def NewFunc(self):
-	1
+	2
