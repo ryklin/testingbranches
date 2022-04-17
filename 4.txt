@@ -1,3 +1,0 @@
-class AlgoTradingLesson4(QCAlgorithm):
-
- 	aFunc():
